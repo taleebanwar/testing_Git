@@ -1,2 +1,4 @@
 Wuhu --- it's time for another commit.
-Editing the file @Github. Let's see what happens now
+Editing the file @Github. Let's see what happens now.
+
+Editing from notepad.
