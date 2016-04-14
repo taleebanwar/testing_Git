@@ -1,4 +1,9 @@
 Wuhu --- it's time for another commit.
+<<<<<<< HEAD
 Editing the file @Github. Let's see what happens now.
 
 Editing from notepad.
+=======
+Editing the file @Github. Let's see what happens now
+Editing in github - simultanuous (but different) edit from notepad
+>>>>>>> 0a81e20ca4d5715df5da13d6722035312c9c95ac
